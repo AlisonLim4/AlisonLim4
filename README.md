@@ -1,7 +1,4 @@
-### Alison Lima
-### Desenvolvedor Jr
-
-
+<h1>Alison Lima</h1>
 <div align="center">
   <a href="https://github.com/AlisonLim4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlisonLim4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +8,7 @@
   
   
   <h2> Estudando </h2>
-  
+ <div style="display: inline_block">
   <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="MySql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
